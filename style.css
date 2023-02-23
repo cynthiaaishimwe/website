@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-color: #862e9c;
+    width: 1300px;
+   height: 800px;
+   margin-bottom: 0;
+
+}
+
+.icons{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    margin-left: 60%;
+
+
+
+}
+a{
+    color: white; 
+}
+.side{
+    padding: 30px;
+    color: white;
+}
+.paragraph{
+   padding: 30px;
+   color: black;
+   
+}
+.order{
+    margin: 18px 24px;
+    padding: 10px 10px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #c0eb75;
+    border-radius: 20px;
+    border-style: none;
+
+    
+}
+.login{
+    border-radius: 80px;
+    border-style: none;
+    font-weight: bold
+    
+    
+       
+}
+.image1{
+    width: 40%;
+    height: 50%;
+    margin-left: 50%;
+}
